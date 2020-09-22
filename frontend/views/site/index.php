@@ -14,7 +14,7 @@ $this->title = 'Felix Atika portfolio';
         <p><a href="https://github.com/Felixatika"><span class="fa fa-github"></span>GitHub</a></p>
         <p><a href="https://www.linkedin.com/in/felix-atika-47309a124/"><span class="fa fa-linkedin-square"></span>LinkedIn</a></p>
         <p><a href="https://twitter.com/felix_atika"><span class="fa fa-twitter"></span>Twitter</a></p>
-        <p><a href="mailto:felixatika@gmail.com"><span class="fa fa-envelope"></span>Email</a></p>
+        <p><a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><span class="fa fa-envelope"></span>Email</a></p>
         </div>
     </div>
 

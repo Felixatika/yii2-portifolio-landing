@@ -76,6 +76,9 @@ class SiteController extends Controller
     {
         return $this->render('index');
     }
+    public function actionAboutme(){
+        return $this->render('aboutme');
+    }
 
     /**
      * Logs in a user.
